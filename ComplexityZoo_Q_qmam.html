@@ -1,0 +1,9 @@
+<html> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+h3,h4 {padding: 2px; border-style: double;}
+</style> 
+</head> 
+<body><h3>Class Description</h3><h5><span class="mw-headline" id="QMAM:_Quantum_Merlin-Arthur-Merlin_Public-Coin_Interactive_Proofs"><span id="qmam" style="color:red">QMAM</span>: Quantum Merlin-Arthur-Merlin Public-Coin Interactive Proofs</span></h5><p>The class of decision problems for which a "yes" answer can be verified by a public-coin quantum MAM protocol, as follows.  Merlin sends a polynomial-size quantum state to Arthur.  Arthur then flips some classical coins (in fact, he only has to flip <i>one</i> without loss of generality) and sends the outcome to Merlin.  At this stage Arthur is not yet allowed to perform any quantum operations.  Merlin then sends Arthur another quantum state.  Finally, Arthur performs a <a href="ComplexityZoo_B_bqp.html" title="Complexity Zoo:B">BQP</a> operation on both of the states simultaneously, and either accepts or rejects.  The completeness and soundness requirements are the same as for <a href="ComplexityZoo_A_am.html" title="Complexity Zoo:A">AM</a>.  Also, Merlin's messages might be entangled.</p><p>Defined by Marriott and Watrous <a href="https://complexityzoo.net/Zooref#mw05" class="mw-redirect" title="Zooref">[MW05]</a>, who also showed that QMAM = <a href="ComplexityZoo_Q_qip.html">QIP</a>(3) = <a href="ComplexityZoo_Q_qip.html">QIP</a>.</p><p>Hence QMAM equals <a href="ComplexityZoo_P_pspace.html" title="Complexity Zoo:P">PSPACE</a>.</p><h3>Linked From</h3><p>No class.</p></body> 
+</html>
