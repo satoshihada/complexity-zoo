@@ -63,7 +63,7 @@
 <edge id="paritypcc_1" source="zppcc" target="paritypcc" label="link"/>
 <node id="paritysac0"/>
 <node id="paritysac1"/>
-<edge id="paritysac1_0" source="sac1" target="paritysac1" label="link"/>
+<edge id="paritysac1_0" source="sac0" target="paritysac1" label="link"/>
 <node id="a0pp"/>
 <edge id="a0pp_0" source="qma" target="a0pp" label="link"/>
 <edge id="a0pp_1" source="sbqp" target="a0pp" label="link"/>
@@ -100,7 +100,7 @@
 <edge id="ac1_1" source="ac" target="ac1" label="link"/>
 <edge id="ac1_2" source="logcfl" target="ac1" label="link"/>
 <edge id="ac1_3" source="nc2" target="ac1" label="link"/>
-<edge id="ac1_4" source="sac1" target="ac1" label="link"/>
+<edge id="ac1_4" source="sac0" target="ac1" label="link"/>
 <edge id="ac1_5" source="tc1" target="ac1" label="link"/>
 <node id="acc0"/>
 <edge id="acc0_0" source="nc1" target="acc0" label="link"/>
@@ -563,6 +563,7 @@
 <edge id="cp_1" source="cnp" target="cp" label="link"/>
 <node id="cqsigma2"/>
 <node id="csize"/>
+<edge id="csize_0" source="size" target="csize" label="link"/>
 <node id="csl"/>
 <edge id="csl_0" source="gcsl" target="csl" label="link"/>
 <node id="csp"/>
@@ -1019,7 +1020,7 @@
 <edge id="logcfl_2" source="gcsl" target="logcfl" label="link"/>
 <edge id="logcfl_3" source="nauxpdap" target="logcfl" label="link"/>
 <edge id="logcfl_4" source="nl" target="logcfl" label="link"/>
-<edge id="logcfl_5" source="sac1" target="logcfl" label="link"/>
+<edge id="logcfl_5" source="sac0" target="logcfl" label="link"/>
 <node id="logfew"/>
 <edge id="logfew_0" source="modkl" target="logfew" label="link"/>
 <node id="logfewnl"/>
@@ -1210,7 +1211,8 @@
 <edge id="nc0_0" source="ac0" target="nc0" label="link"/>
 <edge id="nc0_1" source="qnc0" target="nc0" label="link"/>
 <edge id="nc0_2" source="qnc0qpoly" target="nc0" label="link"/>
-<edge id="nc0_3" source="qncf0" target="nc0" label="link"/>
+<edge id="nc0_3" source="qnc0cat" target="nc0" label="link"/>
+<edge id="nc0_4" source="qncf0" target="nc0" label="link"/>
 <node id="nc1"/>
 <edge id="nc1_0" source="ac0m" target="nc1" label="link"/>
 <edge id="nc1_1" source="ac1" target="nc1" label="link"/>
@@ -1603,9 +1605,10 @@
 <node id="optp"/>
 <edge id="optp_0" source="spanp" target="optp" label="link"/>
 <node id="o2p"/>
-<edge id="o2p_0" source="ppoly" target="o2p" label="link"/>
-<edge id="o2p_1" source="s2p" target="o2p" label="link"/>
-<edge id="o2p_2" source="s2e" target="o2p" label="link"/>
+<edge id="o2p_0" source="bpp" target="o2p" label="link"/>
+<edge id="o2p_1" source="ppoly" target="o2p" label="link"/>
+<edge id="o2p_2" source="s2p" target="o2p" label="link"/>
+<edge id="o2p_3" source="s2e" target="o2p" label="link"/>
 <node id="p"/>
 <edge id="p_0" source="sharpl" target="p" label="link"/>
 <edge id="p_1" source="sharplpoly" target="p" label="link"/>
@@ -2180,6 +2183,7 @@
 <edge id="ptas_6" source="npopb" target="ptas" label="link"/>
 <node id="ptwk"/>
 <edge id="ptwk_0" source="nc" target="ptwk" label="link"/>
+<node id="puresuperqma"/>
 <node id="pzk"/>
 <edge id="pzk_0" source="czk" target="pzk" label="link"/>
 <edge id="pzk_1" source="hvpzk" target="pzk" label="link"/>
@@ -2238,24 +2242,31 @@
 <edge id="qma_5" source="pp" target="qma" label="link"/>
 <edge id="qma_6" source="pqmalog" target="qma" label="link"/>
 <edge id="qma_7" source="pparqma" target="qma" label="link"/>
-<edge id="qma_8" source="qam" target="qma" label="link"/>
-<edge id="qma_9" source="qcma" target="qma" label="link"/>
-<edge id="qma_10" source="qip" target="qma" label="link"/>
-<edge id="qma_11" source="qma-plus" target="qma" label="link"/>
-<edge id="qma_12" source="qma2" target="qma" label="link"/>
-<edge id="qma_13" source="qma1" target="qma" label="link"/>
-<edge id="qma_14" source="qmalog" target="qma" label="link"/>
-<edge id="qma_15" source="qmaqpoly" target="qma" label="link"/>
-<edge id="qma_16" source="qrg1" target="qma" label="link"/>
-<edge id="qma_17" source="yqp" target="qma" label="link"/>
+<edge id="qma_8" source="puresuperqma" target="qma" label="link"/>
+<edge id="qma_9" source="qam" target="qma" label="link"/>
+<edge id="qma_10" source="qcma" target="qma" label="link"/>
+<edge id="qma_11" source="qip" target="qma" label="link"/>
+<edge id="qma_12" source="qma-plus" target="qma" label="link"/>
+<edge id="qma_13" source="qma-plus-new" target="qma" label="link"/>
+<edge id="qma_14" source="qma2" target="qma" label="link"/>
+<edge id="qma_15" source="qma1" target="qma" label="link"/>
+<edge id="qma_16" source="qmalog" target="qma" label="link"/>
+<edge id="qma_17" source="qmaqpoly" target="qma" label="link"/>
+<edge id="qma_18" source="qrg1" target="qma" label="link"/>
+<edge id="qma_19" source="yqp" target="qma" label="link"/>
 <node id="qma-plus"/>
-<edge id="qma-plus_0" source="qma" target="qma-plus" label="link"/>
+<edge id="qma-plus_0" source="puresuperqma" target="qma-plus" label="link"/>
+<edge id="qma-plus_1" source="qma" target="qma-plus" label="link"/>
+<node id="qma-plus-new"/>
+<edge id="qma-plus-new_0" source="qma2-plus-new" target="qma-plus-new" label="link"/>
 <node id="qma2"/>
 <edge id="qma2_0" source="qma" target="qma2" label="link"/>
-<edge id="qma2_1" source="qph" target="qma2" label="link"/>
+<edge id="qma2_1" source="qma2-plus-new" target="qma2" label="link"/>
+<edge id="qma2_2" source="qph" target="qma2" label="link"/>
 <node id="qma1"/>
 <node id="qmalog"/>
 <edge id="qmalog_0" source="qma2" target="qmalog" label="link"/>
+<node id="qma2-plus-new"/>
 <node id="qmam"/>
 <node id="qmaqpoly"/>
 <edge id="qmaqpoly_0" source="pspacepoly" target="qmaqpoly" label="link"/>
@@ -2276,9 +2287,12 @@
 <edge id="qnc_3" source="rnc" target="qnc" label="link"/>
 <node id="qnc0"/>
 <edge id="qnc0_0" source="qnc0qpoly" target="qnc0" label="link"/>
-<edge id="qnc0_1" source="qncf0" target="qnc0" label="link"/>
+<edge id="qnc0_1" source="qnc0cat" target="qnc0" label="link"/>
+<edge id="qnc0_2" source="qncf0" target="qnc0" label="link"/>
 <node id="qnc0qpoly"/>
-<node id="qnc0qpoly"/>
+<edge id="qnc0qpoly_0" source="qnc0cat" target="qnc0qpoly" label="link"/>
+<node id="qnc0cat"/>
+<edge id="qnc0cat_0" source="qnc0qpoly" target="qnc0cat" label="link"/>
 <node id="qncf0"/>
 <edge id="qncf0_0" source="qacwf0" target="qncf0" label="link"/>
 <edge id="qncf0_1" source="qnc0" target="qncf0" label="link"/>
@@ -2419,11 +2433,7 @@
 <edge id="s2exppnp_2" source="eh" target="s2exppnp" label="link"/>
 <node id="sac"/>
 <edge id="sac_0" source="sac0" target="sac" label="link"/>
-<edge id="sac_1" source="sac1" target="sac" label="link"/>
 <node id="sac0"/>
-<node id="sac1"/>
-<edge id="sac1_0" source="paritysac1" target="sac1" label="link"/>
-<edge id="sac1_1" source="logcfl" target="sac1" label="link"/>
 <node id="saptime"/>
 <edge id="saptime_0" source="aucspace" target="saptime" label="link"/>
 <edge id="saptime_1" source="rg" target="saptime" label="link"/>
@@ -2463,6 +2473,8 @@
 <edge id="sigma2p_9" source="s2p" target="sigma2p" label="link"/>
 <edge id="sigma2p_10" source="sbp" target="sigma2p" label="link"/>
 <edge id="sigma2p_11" source="vnp" target="sigma2p" label="link"/>
+<node id="size"/>
+<edge id="size_0" source="csize" target="size" label="link"/>
 <node id="skc"/>
 <node id="sl"/>
 <edge id="sl_0" source="parityl" target="sl" label="link"/>
@@ -2565,6 +2577,7 @@
 <node id="ti"/>
 <node id="tower"/>
 <edge id="tower_0" source="ackermann" target="tower" label="link"/>
+<edge id="tower_1" source="elementary" target="tower" label="link"/>
 <node id="treebqp"/>
 <edge id="treebqp_0" source="amppbqp" target="treebqp" label="link"/>
 <node id="treeregular"/>
@@ -2643,6 +2656,7 @@
 <node id="wappcc"/>
 <edge id="wappcc_0" source="uwappcc" target="wappcc" label="link"/>
 <node id="while"/>
+<edge id="while_0" source="p" target="while" label="link"/>
 <node id="wlc0"/>
 <edge id="wlc0_0" source="lc0" target="wlc0" label="link"/>
 <node id="wp"/>

@@ -723,63 +723,6 @@
 <span id="#P:_Sharp-P_or_Number-P"></span><span class="mw-headline" id=".23P:_Sharp-P_or_Number-P"><span id="sharpp" >#P</span>
 <span id="#P:_Sharp-P_or_Number-P"></span><span class="mw-headline" id=".23P:_Sharp-P_or_Number-P"><span id="sharpp" >#P</span>
 <span id="#P:_Sharp-P_or_Number-P"></span><span class="mw-headline" id=".23P:_Sharp-P_or_Number-P"><span id="sharpp" >#P</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
-<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
 <span class="mw-headline" id="QMA:_Quantum_MA"><span id="qma" >QMA</span>
 <span class="mw-headline" id="QMA:_Quantum_MA"><span id="qma" >QMA</span>
 <span class="mw-headline" id="QMA:_Quantum_MA"><span id="qma" >QMA</span>
@@ -798,6 +741,65 @@
 <span class="mw-headline" id="QMA:_Quantum_MA"><span id="qma" >QMA</span>
 <span class="mw-headline" id="QMA:_Quantum_MA"><span id="qma" >QMA</span>
 <span class="mw-headline" id="QMA:_Quantum_MA"><span id="qma" >QMA</span>
+<span class="mw-headline" id="QMA:_Quantum_MA"><span id="qma" >QMA</span>
+<span class="mw-headline" id="QMA:_Quantum_MA"><span id="qma" >QMA</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span id="DTIME(f(n)):_Deterministic_f(n)-Time"></span><span class="mw-headline" id="DTIME.28f.28n.29.29:_Deterministic_f.28n.29-Time"><span id="dtime" >DTIME(f(n))</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="AM:_Arthur-Merlin"><span id="am" >AM</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
+<span class="mw-headline" id="coNP:_Complement_of_NP"><span id="conp" >coNP</span>
 <span class="mw-headline" id="E:_Exponential_Time_With_Linear_Exponent"><span id="e" >E</span>
 <span class="mw-headline" id="E:_Exponential_Time_With_Linear_Exponent"><span id="e" >E</span>
 <span class="mw-headline" id="E:_Exponential_Time_With_Linear_Exponent"><span id="e" >E</span>
@@ -1348,6 +1350,11 @@
 <span class="mw-headline" id="APX:_Approximable"><span id="apx" >APX</span>
 <span class="mw-headline" id="APX:_Approximable"><span id="apx" >APX</span>
 <span class="mw-headline" id="APX:_Approximable"><span id="apx" >APX</span>
+<span class="mw-headline" id="NC0:_Level_0_of_NC"><span id="nc0" >NC0</span>
+<span class="mw-headline" id="NC0:_Level_0_of_NC"><span id="nc0" >NC0</span>
+<span class="mw-headline" id="NC0:_Level_0_of_NC"><span id="nc0" >NC0</span>
+<span class="mw-headline" id="NC0:_Level_0_of_NC"><span id="nc0" >NC0</span>
+<span class="mw-headline" id="NC0:_Level_0_of_NC"><span id="nc0" >NC0</span>
 <span class="mw-headline" id="CH:_Counting_Hierarchy"><span id="ch" >CH</span>
 <span class="mw-headline" id="CH:_Counting_Hierarchy"><span id="ch" >CH</span>
 <span class="mw-headline" id="CH:_Counting_Hierarchy"><span id="ch" >CH</span>
@@ -1466,14 +1473,14 @@
 <span id="RG(2):_Two-turn_(one-round)_Refereed_Games"></span><span class="mw-headline" id="RG.282.29:_Two-turn_.28one-round.29_Refereed_Games"><span id="rg2" >RG(2)</span>
 <span id="RG(2):_Two-turn_(one-round)_Refereed_Games"></span><span class="mw-headline" id="RG.282.29:_Two-turn_.28one-round.29_Refereed_Games"><span id="rg2" >RG(2)</span>
 <span id="RG(2):_Two-turn_(one-round)_Refereed_Games"></span><span class="mw-headline" id="RG.282.29:_Two-turn_.28one-round.29_Refereed_Games"><span id="rg2" >RG(2)</span>
-<span class="mw-headline" id="NC0:_Level_0_of_NC"><span id="nc0" >NC0</span>
-<span class="mw-headline" id="NC0:_Level_0_of_NC"><span id="nc0" >NC0</span>
-<span class="mw-headline" id="NC0:_Level_0_of_NC"><span id="nc0" >NC0</span>
-<span class="mw-headline" id="NC0:_Level_0_of_NC"><span id="nc0" >NC0</span>
 <span class="mw-headline" id="YP:_Your_Polynomial-Time_or_Yaroslav-Percival"><span id="yp" >YP</span>
 <span class="mw-headline" id="YP:_Your_Polynomial-Time_or_Yaroslav-Percival"><span id="yp" >YP</span>
 <span class="mw-headline" id="YP:_Your_Polynomial-Time_or_Yaroslav-Percival"><span id="yp" >YP</span>
 <span class="mw-headline" id="YP:_Your_Polynomial-Time_or_Yaroslav-Percival"><span id="yp" >YP</span>
+<span class="mw-headline" id="O2P:_Second_Level_of_the_Oblivious_Symmetric_Hierarchy"><span id="o2p" >O2P</span>
+<span class="mw-headline" id="O2P:_Second_Level_of_the_Oblivious_Symmetric_Hierarchy"><span id="o2p" >O2P</span>
+<span class="mw-headline" id="O2P:_Second_Level_of_the_Oblivious_Symmetric_Hierarchy"><span id="o2p" >O2P</span>
+<span class="mw-headline" id="O2P:_Second_Level_of_the_Oblivious_Symmetric_Hierarchy"><span id="o2p" >O2P</span>
 <span class="mw-headline" id="PBP:_Polynomial-Size_Branching_Program"><span id="pbp" >PBP</span>
 <span class="mw-headline" id="PBP:_Polynomial-Size_Branching_Program"><span id="pbp" >PBP</span>
 <span class="mw-headline" id="PBP:_Polynomial-Size_Branching_Program"><span id="pbp" >PBP</span>
@@ -1630,12 +1637,9 @@
 <span class="mw-headline" id="EXPSPACE:_Exponential_Space"><span id="expspace" >EXPSPACE</span>
 <span class="mw-headline" id="EXPSPACE:_Exponential_Space"><span id="expspace" >EXPSPACE</span>
 <span class="mw-headline" id="EXPSPACE:_Exponential_Space"><span id="expspace" >EXPSPACE</span>
-<span class="mw-headline" id="O2P:_Second_Level_of_the_Oblivious_Symmetric_Hierarchy"><span id="o2p" >O2P</span>
-<span class="mw-headline" id="O2P:_Second_Level_of_the_Oblivious_Symmetric_Hierarchy"><span id="o2p" >O2P</span>
-<span class="mw-headline" id="O2P:_Second_Level_of_the_Oblivious_Symmetric_Hierarchy"><span id="o2p" >O2P</span>
-<span class="mw-headline" id="ELEMENTARY:_Iterated_Exponential_Time"><span id="elementary" >ELEMENTARY</span>
-<span class="mw-headline" id="ELEMENTARY:_Iterated_Exponential_Time"><span id="elementary" >ELEMENTARY</span>
-<span class="mw-headline" id="ELEMENTARY:_Iterated_Exponential_Time"><span id="elementary" >ELEMENTARY</span>
+<span class="mw-headline" id="ELEMENTARY:_Finitely_Iterated_Exponential_Time"><span id="elementary" >ELEMENTARY</span>
+<span class="mw-headline" id="ELEMENTARY:_Finitely_Iterated_Exponential_Time"><span id="elementary" >ELEMENTARY</span>
+<span class="mw-headline" id="ELEMENTARY:_Finitely_Iterated_Exponential_Time"><span id="elementary" >ELEMENTARY</span>
 <span class="mw-headline" id="NPR:_NP_Over_The_Reals"><span id="npr" >NPR</span>
 <span class="mw-headline" id="NPR:_NP_Over_The_Reals"><span id="npr" >NPR</span>
 <span class="mw-headline" id="NPR:_NP_Over_The_Reals"><span id="npr" >NPR</span>
@@ -1780,6 +1784,12 @@
 <span class="mw-headline" id="coRP:_Complement_of_RP"><span id="corp" >coRP</span>
 <span class="mw-headline" id="coRP:_Complement_of_RP"><span id="corp" >coRP</span>
 <span class="mw-headline" id="coRP:_Complement_of_RP"><span id="corp" >coRP</span>
+<span class="mw-headline" id="QNC0:_Quantum_NC0"><span id="qnc0" >QNC0</span>
+<span class="mw-headline" id="QNC0:_Quantum_NC0"><span id="qnc0" >QNC0</span>
+<span class="mw-headline" id="QNC0:_Quantum_NC0"><span id="qnc0" >QNC0</span>
+<span id="QMA(2):_Quantum_MA_With_Multiple_Certificates"></span><span class="mw-headline" id="QMA.282.29:_Quantum_MA_With_Multiple_Certificates"><span id="qma2" >QMA(2)</span>
+<span id="QMA(2):_Quantum_MA_With_Multiple_Certificates"></span><span class="mw-headline" id="QMA.282.29:_Quantum_MA_With_Multiple_Certificates"><span id="qma2" >QMA(2)</span>
+<span id="QMA(2):_Quantum_MA_With_Multiple_Certificates"></span><span class="mw-headline" id="QMA.282.29:_Quantum_MA_With_Multiple_Certificates"><span id="qma2" >QMA(2)</span>
 <span class="mw-headline" id="VNPk:_Valiant_NP_Over_Field_k"><span id="vnp" >VNPk</span>
 <span class="mw-headline" id="VNPk:_Valiant_NP_Over_Field_k"><span id="vnp" >VNPk</span>
 <span class="mw-headline" id="VNPk:_Valiant_NP_Over_Field_k"><span id="vnp" >VNPk</span>
@@ -1848,8 +1858,12 @@
 <span class="mw-headline" id="REG:_Regular_Languages"><span id="reg" >REG</span>
 <span class="mw-headline" id="MAC0:_Majority_of_AC0"><span id="mac0" >MAC0</span>
 <span class="mw-headline" id="MAC0:_Majority_of_AC0"><span id="mac0" >MAC0</span>
+<span class="mw-headline" id="TOWER:_Iterated_Exponential_Time"><span id="tower" >TOWER</span>
+<span class="mw-headline" id="TOWER:_Iterated_Exponential_Time"><span id="tower" >TOWER</span>
 <span class="mw-headline" id="QNCf0:_Quantum_NC0_With_Unbounded_Fanout"><span id="qncf0" >QNCf0</span>
 <span class="mw-headline" id="QNCf0:_Quantum_NC0_With_Unbounded_Fanout"><span id="qncf0" >QNCf0</span>
+<span class="mw-headline" id="QMA-plus:_QMA_With_Super-Verifier"><span id="qma-plus" >QMA-plus</span>
+<span class="mw-headline" id="QMA-plus:_QMA_With_Super-Verifier"><span id="qma-plus" >QMA-plus</span>
 <span class="mw-headline" id="LOGNP:_Logarithmically-Restricted_NP"><span id="lognp" >LOGNP</span>
 <span class="mw-headline" id="LOGNP:_Logarithmically-Restricted_NP"><span id="lognp" >LOGNP</span>
 <span id="NL/poly:_Nonuniform_NL"></span><span class="mw-headline" id="NL.2Fpoly:_Nonuniform_NL"><span id="nlpoly" >NL/poly</span>
@@ -1870,8 +1884,6 @@
 <span class="mw-headline" id="PromiseP:_Promise-Problem_P"><span id="promisep" >PromiseP</span>
 <span class="mw-headline" id="MAE:_Exponential-Time_MA_With_Linear_Exponent"><span id="mae" >MAE</span>
 <span class="mw-headline" id="MAE:_Exponential-Time_MA_With_Linear_Exponent"><span id="mae" >MAE</span>
-<span class="mw-headline" id="SAC1:_Semi-Unbounded-Fanin_AC1"><span id="sac1" >SAC1</span>
-<span class="mw-headline" id="SAC1:_Semi-Unbounded-Fanin_AC1"><span id="sac1" >SAC1</span>
 <span id="BQP/qlog:_BQP_With_Logarithmic-Size_Quantum_Advice"></span><span class="mw-headline" id="BQP.2Fqlog:_BQP_With_Logarithmic-Size_Quantum_Advice"><span id="bqpqlog" >BQP/qlog</span>
 <span id="BQP/qlog:_BQP_With_Logarithmic-Size_Quantum_Advice"></span><span class="mw-headline" id="BQP.2Fqlog:_BQP_With_Logarithmic-Size_Quantum_Advice"><span id="bqpqlog" >BQP/qlog</span>
 <span id="AW[SAT]:_Alternating_W[SAT]"></span><span class="mw-headline" id="AW.5BSAT.5D:_Alternating_W.5BSAT.5D"><span id="awsat" >AW[SAT]</span>
@@ -1902,12 +1914,10 @@
 <span class="mw-headline" id="MaxNP:_Maximization_NP"><span id="maxnp" >MaxNP</span>
 <span class="mw-headline" id="Check:_Checkable_Languages"><span id="check" >Check</span>
 <span class="mw-headline" id="Check:_Checkable_Languages"><span id="check" >Check</span>
-<span id="BPd(P):_Polynomial_Size_d-Times-Only_Branching_Program"></span><span class="mw-headline" id="BPd.28P.29:_Polynomial_Size_d-Times-Only_Branching_Program"><span id="bpdp" >BPd(P)</span>
-<span id="BPd(P):_Polynomial_Size_d-Times-Only_Branching_Program"></span><span class="mw-headline" id="BPd.28P.29:_Polynomial_Size_d-Times-Only_Branching_Program"><span id="bpdp" >BPd(P)</span>
-<span class="mw-headline" id="SAC:_Semi-Unbounded-Fanin_AC"><span id="sac" >SAC</span>
-<span class="mw-headline" id="SAC:_Semi-Unbounded-Fanin_AC"><span id="sac" >SAC</span>
 <span id="GapAC0:_Gap_#AC0"></span><span class="mw-headline" id="GapAC0:_Gap_.23AC0"><span id="gapac0" >GapAC0</span>
 <span id="GapAC0:_Gap_#AC0"></span><span class="mw-headline" id="GapAC0:_Gap_.23AC0"><span id="gapac0" >GapAC0</span>
+<span id="BPd(P):_Polynomial_Size_d-Times-Only_Branching_Program"></span><span class="mw-headline" id="BPd.28P.29:_Polynomial_Size_d-Times-Only_Branching_Program"><span id="bpdp" >BPd(P)</span>
+<span id="BPd(P):_Polynomial_Size_d-Times-Only_Branching_Program"></span><span class="mw-headline" id="BPd.28P.29:_Polynomial_Size_d-Times-Only_Branching_Program"><span id="bpdp" >BPd(P)</span>
 <span id="FO(PFP):_First-order_with_partial_fixed_point"></span><span class="mw-headline" id="FO.28PFP.29:_First-order_with_partial_fixed_point"><span id="fopfp" >FO(PFP)</span>
 <span id="FO(PFP):_First-order_with_partial_fixed_point"></span><span class="mw-headline" id="FO.28PFP.29:_First-order_with_partial_fixed_point"><span id="fopfp" >FO(PFP)</span>
 <span id="(NP,P-samplable):_Average_NP_With_Samplable_Distributions"></span><span class="mw-headline" id=".28NP.2CP-samplable.29:_Average_NP_With_Samplable_Distributions"><span id="nppsamp" >(NP,P-samplable)</span>
@@ -1964,12 +1974,8 @@
 <span class="mw-headline" id="Almost-P:_Languages_Almost_Surely_in_PA"><span id="almostp" >Almost-P</span>
 <span class="mw-headline" id="LkP:_Low_Hierarchy_In_NP"><span id="lkp" >LkP</span>
 <span class="mw-headline" id="LkP:_Low_Hierarchy_In_NP"><span id="lkp" >LkP</span>
-<span class="mw-headline" id="QNC0:_Quantum_NC0"><span id="qnc0" >QNC0</span>
-<span class="mw-headline" id="QNC0:_Quantum_NC0"><span id="qnc0" >QNC0</span>
 <span id="FO(LFP):_First-order_with_least_fixed_point"></span><span class="mw-headline" id="FO.28LFP.29:_First-order_with_least_fixed_point"><span id="folfp" >FO(LFP)</span>
 <span id="FO(LFP):_First-order_with_least_fixed_point"></span><span class="mw-headline" id="FO.28LFP.29:_First-order_with_least_fixed_point"><span id="folfp" >FO(LFP)</span>
-<span id="QMA(2):_Quantum_MA_With_Multiple_Certificates"></span><span class="mw-headline" id="QMA.282.29:_Quantum_MA_With_Multiple_Certificates"><span id="qma2" >QMA(2)</span>
-<span id="QMA(2):_Quantum_MA_With_Multiple_Certificates"></span><span class="mw-headline" id="QMA.282.29:_Quantum_MA_With_Multiple_Certificates"><span id="qma2" >QMA(2)</span>
 <span class="mw-headline" id="YQP:_Yaroslav_BQP"><span id="yqp" >YQP</span>
 <span class="mw-headline" id="YQP:_Yaroslav_BQP"><span id="yqp" >YQP</span>
 <span id="BQP/mlog:_BQP_With_Logarithmic-Size_Deterministic_Merlin-Like_Advice"></span><span class="mw-headline" id="BQP.2Fmlog:_BQP_With_Logarithmic-Size_Deterministic_Merlin-Like_Advice"><span id="bqpmlog" >BQP/mlog</span>
@@ -2028,7 +2034,6 @@
 <span id="BPP//log:_BPP_With_Logarithmic_Randomness-Dependent_Advice"></span><span class="mw-headline" id="BPP.2F.2Flog:_BPP_With_Logarithmic_Randomness-Dependent_Advice"><span id="bppsslog" >BPP//log</span>
 <span class="mw-headline" id="QCFL:_Quantum_CFL"><span id="qcfl" >QCFL</span>
 <span class="mw-headline" id="TC1:_Log-depth_Threshold_Circuits"><span id="tc1" >TC1</span>
-<span class="mw-headline" id="Tower:_Tetrational_Time"><span id="tower" >Tower</span>
 <span class="mw-headline" id="ModZkL:_Restricted_ModkL"><span id="modzkl" >ModZkL</span>
 <span id="PrHSPACE(f(n)):_Unbounded-Error_Halting_Probabilistic_f(n)-Space"></span><span class="mw-headline" id="PrHSPACE.28f.28n.29.29:_Unbounded-Error_Halting_Probabilistic_f.28n.29-Space"><span id="prhspace" >PrHSPACE(f(n))</span>
 <span id="C=L:_Exact-Counting_L"></span><span class="mw-headline" id="C.3DL:_Exact-Counting_L"><span id="cequalsl" >C=L</span>
@@ -2037,7 +2042,6 @@
 <span class="mw-headline" id="MinPB:_MinNP_Polynomially_Bounded"><span id="minpb" >MinPB</span>
 <span class="mw-headline" id="TreeBQP:_BQP_Restricted_To_Tree_States"><span id="treebqp" >TreeBQP</span>
 <span class="mw-headline" id="NISZKh:_NISZK_With_Limited_Help"><span id="niszkh" >NISZKh</span>
-<span class="mw-headline" id="QMA-plus:_QMA_With_Super-Verifier"><span id="qma-plus" >QMA-plus</span>
 <span id="HeurBPTIME(f(n)):_Heuristic_BPTIME(f(n))"></span><span class="mw-headline" id="HeurBPTIME.28f.28n.29.29:_Heuristic_BPTIME.28f.28n.29.29"><span id="heurbptime" >HeurBPTIME(f(n))</span>
 <span class="mw-headline" id="VQPk:_Valiant_QP_Over_Field_k"><span id="vqp" >VQPk</span>
 <span class="mw-headline" id="PAC0:_Probabilistic_AC0"><span id="pac0" >PAC0</span>
@@ -2048,6 +2052,8 @@
 <span class="mw-headline" id="FPR:_Fixed-Parameter_Randomized"><span id="fpr" >FPR</span>
 <span class="mw-headline" id="HeurP:_Heuristic_P"><span id="heurp" >HeurP</span>
 <span class="mw-headline" id="FERT:_Fixed_Error_Randomized_Time"><span id="fert" >FERT</span>
+<span class="mw-headline" id="WHILE:_While_programs_and_some_restrictions"><span id="while" >WHILE</span>
+<span id="SIZE(f(n)):_Circuit_Size_f(n)"></span><span class="mw-headline" id="SIZE.28f.28n.29.29:_Circuit_Size_f.28n.29"><span id="size" >SIZE(f(n))</span>
 <span class="mw-headline" id="QMIPle:_Quantum_Multi-Prover_Interactive_Proofs_With_Limited_Prior_Entanglement"><span id="qmiple" >QMIPle</span>
 <span id="SO[LFP]:_Second-Order_logic_with_least_fixed_point"></span><span class="mw-headline" id="SO.5BLFP.5D:_Second-Order_logic_with_least_fixed_point"><span id="solfp" >SO[LFP]</span>
 <span id="GAN-SPACE(f(n)):_Games_Against_Nature_f(n)-Space"></span><span class="mw-headline" id="GAN-SPACE.28f.28n.29.29:_Games_Against_Nature_f.28n.29-Space"><span id="ganspace" >GAN-SPACE(f(n))</span>
@@ -2081,6 +2087,7 @@
 <span id="#L/poly:_Nonuniform_#L"></span><span class="mw-headline" id=".23L.2Fpoly:_Nonuniform_.23L"><span id="sharplpoly" >#L/poly</span>
 <span class="mw-headline" id="EPTAS:_Efficient_Polynomial-Time_Approximation_Scheme"><span id="eptas" >EPTAS</span>
 <span id="⊕SAC1:_AC1_With_Unbounded_Parity_Gates"></span><span class="mw-headline" id=".E2.8A.95SAC1:_AC1_With_Unbounded_Parity_Gates"><span id="paritysac1" >&#8853;SAC1</span>
+<span class="mw-headline" id="SAC:_Semi-Unbounded-Fanin_AC"><span id="sac" >SAC</span>
 <span id="δ-BPP:_δ-Semi-Random_BPP"></span><span class="mw-headline" id=".CE.B4-BPP:_.CE.B4-Semi-Random_BPP"><span id="deltabpp" >&#948;-BPP</span>
 <span id="BQP/log:_BQP_With_Logarithmic-Size_Karp-Lipton_Advice"></span><span class="mw-headline" id="BQP.2Flog:_BQP_With_Logarithmic-Size_Karp-Lipton_Advice"><span id="bqplog" >BQP/log</span>
 <span class="mw-headline" id="UPostBPPcc:_Unrestricted_Communication_Analogue_of_PostBPP"><span id="upostbppcc" >UPostBPPcc</span>
@@ -2090,6 +2097,7 @@
 <span class="mw-headline" id="LIN:_Linear_Time"><span id="lin" >LIN</span>
 <span class="mw-headline" id="OMA:_Oblivious_MA"><span id="oma" >OMA</span>
 <span class="mw-headline" id="SBQP:_Small_Bounded-Error_Quantum_Polynomial-Time"><span id="sbqp" >SBQP</span>
+<span id="QMA+:_QMA_With_Non-Negative_Amplitudes"></span><span class="mw-headline" id="QMA.2B:_QMA_With_Non-Negative_Amplitudes"><span id="qma-plus-new" >QMA+</span>
 <span class="mw-headline" id="PermUP:_Self-Permuting_UP"><span id="permup" >PermUP</span>
 <span class="mw-headline" id="QH:_Query_Hierarchy_Over_NP"><span id="qh" >QH</span>
 <span class="mw-headline" id="coNQP:_Complement_of_NQP"><span id="conqp" >coNQP</span>
@@ -2104,6 +2112,7 @@
 <span class="mw-headline" id="NIPZK:_Non-Interactive_PZK"><span id="nipzk" >NIPZK</span>
 <span class="mw-headline" id="EQPK:_Exact_Quantum_Polynomial-Time_with_Gate_Set_K"><span id="eqpk" >EQPK</span>
 <span id="NE/poly:_Nonuniform_NE"></span><span class="mw-headline" id="NE.2Fpoly:_Nonuniform_NE"><span id="nepoly" >NE/poly</span>
+<span id="QNC0/qpoly:_Quantum_NC0_With_Polynomial-Size_Quantum_Advice"></span><span class="mw-headline" id="QNC0.2Fqpoly:_Quantum_NC0_With_Polynomial-Size_Quantum_Advice"><span id="qnc0qpoly" >QNC0/qpoly</span>
 <span class="mw-headline" id="NLT:_Nearly_Linear_Time"><span id="nlt" >NLT</span>
 <span id="PL∞:_Polynomially-Bounded_L∞-1_Spectral_Norm"></span><span class="mw-headline" id="PL.E2.88.9E:_Polynomially-Bounded_L.E2.88.9E-1_Spectral_Norm"><span id="plinfinity" >PL&#8734;</span>
 <span class="mw-headline" id="CLOG:_Continuous_Logarithmic-Time"><span id="clog" >CLOG</span>
@@ -2112,6 +2121,7 @@
 <span class="mw-headline" id="ModP:_ModkP_With_Arbitrary_k"><span id="modp" >ModP</span>
 <span class="mw-headline" id="BPQP:_Bounded-Error_Probabilistic_QP"><span id="bpqp" >BPQP</span>
 <span class="mw-headline" id="PromiseRP:_Promise-Problem_RP"><span id="promiserp" >PromiseRP</span>
+<span id="CSIZE(f(n)):_Circuit_Size_f(n)"></span><span class="mw-headline" id="CSIZE.28f.28n.29.29:_Circuit_Size_f.28n.29"><span id="csize" >CSIZE(f(n))</span>
 <span class="mw-headline" id="VNCk:_Valiant_NC_Over_Field_k"><span id="vnc" >VNCk</span>
 <span class="mw-headline" id="QMAlog:_QMA_With_Logarithmic-Size_Proofs"><span id="qmalog" >QMAlog</span>
 <span id="F-TIME(f(n)):_Provable_DTIME(f(n))_For_Formal_System_F"></span><span class="mw-headline" id="F-TIME.28f.28n.29.29:_Provable_DTIME.28f.28n.29.29_For_Formal_System_F"><span id="ftime" >F-TIME(f(n))</span>
@@ -2139,6 +2149,7 @@
 <span id="PT/WK(f(n),g(n)):_Parallel_Time_f(n)_/_Work_g(n)"></span><span class="mw-headline" id="PT.2FWK.28f.28n.29.2Cg.28n.29.29:_Parallel_Time_f.28n.29_.2F_Work_g.28n.29"><span id="ptwk" >PT/WK(f(n),g(n))</span>
 <span id="S≠:_Exclusive_Stochastic_Languages"></span><span class="mw-headline" id="S.E2.89.A0:_Exclusive_Stochastic_Languages"><span id="sneq" >S≠</span>
 <span class="mw-headline" id="NLIN:_Nondeterministic_LIN"><span id="nlin" >NLIN</span>
+<span id="QNC0/🐱:_Quantum_NC0_With_Polynomial-Size_Quantum_Advice"></span><span class="mw-headline" id="QNC0.2F.F0.9F.90.B1:_Quantum_NC0_With_Polynomial-Size_Quantum_Advice"><span id="qnc0cat" >QNC0/🐱</span>
 <span class="mw-headline" id="Dyn-ThC0:_Dynamic_Threshold_Circuits"><span id="dynthc0" >Dyn-ThC0</span>
 <span id="SO[TC]:_Second-Order_logic_with_transitive_closure"></span><span class="mw-headline" id="SO.5BTC.5D:_Second-Order_logic_with_transitive_closure"><span id="sotc" >SO[TC]</span>
 <span class="mw-headline" id="FPRAS:_Fully_Polynomial_Randomized_Approximation_Scheme"><span id="fpras" >FPRAS</span>
