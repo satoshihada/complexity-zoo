@@ -701,6 +701,7 @@
 <span class="mw-headline" id="MA:_Merlin-Arthur"><span id="ma" >MA</span>
 <span class="mw-headline" id="MA:_Merlin-Arthur"><span id="ma" >MA</span>
 <span class="mw-headline" id="MA:_Merlin-Arthur"><span id="ma" >MA</span>
+<span class="mw-headline" id="MA:_Merlin-Arthur"><span id="ma" >MA</span>
 <span id="#P:_Sharp-P_or_Number-P"></span><span class="mw-headline" id=".23P:_Sharp-P_or_Number-P"><span id="sharpp" >#P</span>
 <span id="#P:_Sharp-P_or_Number-P"></span><span class="mw-headline" id=".23P:_Sharp-P_or_Number-P"><span id="sharpp" >#P</span>
 <span id="#P:_Sharp-P_or_Number-P"></span><span class="mw-headline" id=".23P:_Sharp-P_or_Number-P"><span id="sharpp" >#P</span>
@@ -987,18 +988,6 @@
 <span class="mw-headline" id="UP:_Unambiguous_Polynomial-Time"><span id="up" >UP</span>
 <span class="mw-headline" id="UP:_Unambiguous_Polynomial-Time"><span id="up" >UP</span>
 <span class="mw-headline" id="UP:_Unambiguous_Polynomial-Time"><span id="up" >UP</span>
-<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
-<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
-<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
-<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
-<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
-<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
-<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
-<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
-<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
-<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
-<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
-<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
 <span class="mw-headline" id="NE:_Nondeterministic_E"><span id="ne" >NE</span>
 <span class="mw-headline" id="NE:_Nondeterministic_E"><span id="ne" >NE</span>
 <span class="mw-headline" id="NE:_Nondeterministic_E"><span id="ne" >NE</span>
@@ -1010,6 +999,19 @@
 <span class="mw-headline" id="NE:_Nondeterministic_E"><span id="ne" >NE</span>
 <span class="mw-headline" id="NE:_Nondeterministic_E"><span id="ne" >NE</span>
 <span class="mw-headline" id="NE:_Nondeterministic_E"><span id="ne" >NE</span>
+<span class="mw-headline" id="NE:_Nondeterministic_E"><span id="ne" >NE</span>
+<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
+<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
+<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
+<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
+<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
+<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
+<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
+<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
+<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
+<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
+<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
+<span id="Σ2P:_NP_With_NP_Oracle"></span><span class="mw-headline" id=".CE.A32P:_NP_With_NP_Oracle"><span id="sigma2p" >&#931;2P</span>
 <span class="mw-headline" id="ModkP:_Mod-k_Polynomial-Time"><span id="modkp" >ModkP</span>
 <span class="mw-headline" id="ModkP:_Mod-k_Polynomial-Time"><span id="modkp" >ModkP</span>
 <span class="mw-headline" id="ModkP:_Mod-k_Polynomial-Time"><span id="modkp" >ModkP</span>
@@ -1032,6 +1034,16 @@
 <span class="mw-headline" id="FO:_First-Order_logic"><span id="fo" >FO</span>
 <span class="mw-headline" id="FO:_First-Order_logic"><span id="fo" >FO</span>
 <span class="mw-headline" id="FO:_First-Order_logic"><span id="fo" >FO</span>
+<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
+<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
+<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
+<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
+<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
+<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
+<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
+<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
+<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
+<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
 <span class="mw-headline" id="EQP:_Exact_Quantum_Polynomial-Time"><span id="eqp" >EQP</span>
 <span class="mw-headline" id="EQP:_Exact_Quantum_Polynomial-Time"><span id="eqp" >EQP</span>
 <span class="mw-headline" id="EQP:_Exact_Quantum_Polynomial-Time"><span id="eqp" >EQP</span>
@@ -1069,15 +1081,6 @@
 <span class="mw-headline" id="TC0:_Constant-Depth_Threshold_Circuits"><span id="tc0" >TC0</span>
 <span class="mw-headline" id="TC0:_Constant-Depth_Threshold_Circuits"><span id="tc0" >TC0</span>
 <span class="mw-headline" id="TC0:_Constant-Depth_Threshold_Circuits"><span id="tc0" >TC0</span>
-<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
-<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
-<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
-<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
-<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
-<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
-<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
-<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
-<span class="mw-headline" id="MIP:_Multi-Prover_Interactive_Proof"><span id="mip" >MIP</span>
 <span id="⊕P:_Parity_P"></span><span class="mw-headline" id=".E2.8A.95P:_Parity_P"><span id="parityp" >&#8853;P</span>
 <span id="⊕P:_Parity_P"></span><span class="mw-headline" id=".E2.8A.95P:_Parity_P"><span id="parityp" >&#8853;P</span>
 <span id="⊕P:_Parity_P"></span><span class="mw-headline" id=".E2.8A.95P:_Parity_P"><span id="parityp" >&#8853;P</span>
@@ -1485,10 +1488,10 @@
 <span class="mw-headline" id="PBP:_Polynomial-Size_Branching_Program"><span id="pbp" >PBP</span>
 <span class="mw-headline" id="PBP:_Polynomial-Size_Branching_Program"><span id="pbp" >PBP</span>
 <span class="mw-headline" id="PBP:_Polynomial-Size_Branching_Program"><span id="pbp" >PBP</span>
-<span id="FO['&quot;`UNIQ--postMath-00000065-QINU`&quot;']:_Iterated_First-Order_logic"></span><span class="mw-headline" id="FO.5B.7F.27.22.60UNIQ--postMath-00000065-QINU.60.22.27.7F.5D:_Iterated_First-Order_logic"><span id="fot" >FO[<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display:none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t(n)}">  <semantics>    <mrow class="MJX-TeXAtom-ORD">      <mstyle displaystyle="true" scriptlevel="0">        <mi>t</mi>        <mo stretchy="false">(</mo>        <mi>n</mi>        <mo stretchy="false">)</mo>      </mstyle>    </mrow>    {\displaystyle t(n)}</annotation>  </semantics></math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/70b64a27c4f55221162f329285382cc470e3827e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align:-0.838ex; width:4.044ex; height:2.843ex;" alt="{\displaystyle t(n)}"/></span>]</span>
-<span id="FO['&quot;`UNIQ--postMath-00000065-QINU`&quot;']:_Iterated_First-Order_logic"></span><span class="mw-headline" id="FO.5B.7F.27.22.60UNIQ--postMath-00000065-QINU.60.22.27.7F.5D:_Iterated_First-Order_logic"><span id="fot" >FO[<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display:none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t(n)}">  <semantics>    <mrow class="MJX-TeXAtom-ORD">      <mstyle displaystyle="true" scriptlevel="0">        <mi>t</mi>        <mo stretchy="false">(</mo>        <mi>n</mi>        <mo stretchy="false">)</mo>      </mstyle>    </mrow>    {\displaystyle t(n)}</annotation>  </semantics></math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/70b64a27c4f55221162f329285382cc470e3827e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align:-0.838ex; width:4.044ex; height:2.843ex;" alt="{\displaystyle t(n)}"/></span>]</span>
-<span id="FO['&quot;`UNIQ--postMath-00000065-QINU`&quot;']:_Iterated_First-Order_logic"></span><span class="mw-headline" id="FO.5B.7F.27.22.60UNIQ--postMath-00000065-QINU.60.22.27.7F.5D:_Iterated_First-Order_logic"><span id="fot" >FO[<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display:none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t(n)}">  <semantics>    <mrow class="MJX-TeXAtom-ORD">      <mstyle displaystyle="true" scriptlevel="0">        <mi>t</mi>        <mo stretchy="false">(</mo>        <mi>n</mi>        <mo stretchy="false">)</mo>      </mstyle>    </mrow>    {\displaystyle t(n)}</annotation>  </semantics></math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/70b64a27c4f55221162f329285382cc470e3827e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align:-0.838ex; width:4.044ex; height:2.843ex;" alt="{\displaystyle t(n)}"/></span>]</span>
-<span id="FO['&quot;`UNIQ--postMath-00000065-QINU`&quot;']:_Iterated_First-Order_logic"></span><span class="mw-headline" id="FO.5B.7F.27.22.60UNIQ--postMath-00000065-QINU.60.22.27.7F.5D:_Iterated_First-Order_logic"><span id="fot" >FO[<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display:none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t(n)}">  <semantics>    <mrow class="MJX-TeXAtom-ORD">      <mstyle displaystyle="true" scriptlevel="0">        <mi>t</mi>        <mo stretchy="false">(</mo>        <mi>n</mi>        <mo stretchy="false">)</mo>      </mstyle>    </mrow>    {\displaystyle t(n)}</annotation>  </semantics></math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/70b64a27c4f55221162f329285382cc470e3827e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align:-0.838ex; width:4.044ex; height:2.843ex;" alt="{\displaystyle t(n)}"/></span>]</span>
+<span id="FO['&quot;`UNIQ--postMath-0000006B-QINU`&quot;']:_Iterated_First-Order_logic"></span><span class="mw-headline" id="FO.5B.7F.27.22.60UNIQ--postMath-0000006B-QINU.60.22.27.7F.5D:_Iterated_First-Order_logic"><span id="fot" >FO[<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display:none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t(n)}">  <semantics>    <mrow class="MJX-TeXAtom-ORD">      <mstyle displaystyle="true" scriptlevel="0">        <mi>t</mi>        <mo stretchy="false">(</mo>        <mi>n</mi>        <mo stretchy="false">)</mo>      </mstyle>    </mrow>    {\displaystyle t(n)}</annotation>  </semantics></math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/70b64a27c4f55221162f329285382cc470e3827e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align:-0.838ex; width:4.044ex; height:2.843ex;" alt="{\displaystyle t(n)}"/></span>]</span>
+<span id="FO['&quot;`UNIQ--postMath-0000006B-QINU`&quot;']:_Iterated_First-Order_logic"></span><span class="mw-headline" id="FO.5B.7F.27.22.60UNIQ--postMath-0000006B-QINU.60.22.27.7F.5D:_Iterated_First-Order_logic"><span id="fot" >FO[<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display:none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t(n)}">  <semantics>    <mrow class="MJX-TeXAtom-ORD">      <mstyle displaystyle="true" scriptlevel="0">        <mi>t</mi>        <mo stretchy="false">(</mo>        <mi>n</mi>        <mo stretchy="false">)</mo>      </mstyle>    </mrow>    {\displaystyle t(n)}</annotation>  </semantics></math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/70b64a27c4f55221162f329285382cc470e3827e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align:-0.838ex; width:4.044ex; height:2.843ex;" alt="{\displaystyle t(n)}"/></span>]</span>
+<span id="FO['&quot;`UNIQ--postMath-0000006B-QINU`&quot;']:_Iterated_First-Order_logic"></span><span class="mw-headline" id="FO.5B.7F.27.22.60UNIQ--postMath-0000006B-QINU.60.22.27.7F.5D:_Iterated_First-Order_logic"><span id="fot" >FO[<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display:none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t(n)}">  <semantics>    <mrow class="MJX-TeXAtom-ORD">      <mstyle displaystyle="true" scriptlevel="0">        <mi>t</mi>        <mo stretchy="false">(</mo>        <mi>n</mi>        <mo stretchy="false">)</mo>      </mstyle>    </mrow>    {\displaystyle t(n)}</annotation>  </semantics></math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/70b64a27c4f55221162f329285382cc470e3827e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align:-0.838ex; width:4.044ex; height:2.843ex;" alt="{\displaystyle t(n)}"/></span>]</span>
+<span id="FO['&quot;`UNIQ--postMath-0000006B-QINU`&quot;']:_Iterated_First-Order_logic"></span><span class="mw-headline" id="FO.5B.7F.27.22.60UNIQ--postMath-0000006B-QINU.60.22.27.7F.5D:_Iterated_First-Order_logic"><span id="fot" >FO[<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display:none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t(n)}">  <semantics>    <mrow class="MJX-TeXAtom-ORD">      <mstyle displaystyle="true" scriptlevel="0">        <mi>t</mi>        <mo stretchy="false">(</mo>        <mi>n</mi>        <mo stretchy="false">)</mo>      </mstyle>    </mrow>    {\displaystyle t(n)}</annotation>  </semantics></math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/70b64a27c4f55221162f329285382cc470e3827e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align:-0.838ex; width:4.044ex; height:2.843ex;" alt="{\displaystyle t(n)}"/></span>]</span>
 <span class="mw-headline" id="NISZK:_Non-Interactive_SZK"><span id="niszk" >NISZK</span>
 <span class="mw-headline" id="NISZK:_Non-Interactive_SZK"><span id="niszk" >NISZK</span>
 <span class="mw-headline" id="NISZK:_Non-Interactive_SZK"><span id="niszk" >NISZK</span>

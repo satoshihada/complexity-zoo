@@ -1064,8 +1064,9 @@
 <edge id="ma_18" source="qma" target="ma" label="link"/>
 <edge id="ma_19" source="s2p" target="ma" label="link"/>
 <edge id="ma_20" source="sbp" target="ma" label="link"/>
-<edge id="ma_21" source="ypp" target="ma" label="link"/>
-<edge id="ma_22" source="yqp" target="ma" label="link"/>
+<edge id="ma_21" source="stoqma" target="ma" label="link"/>
+<edge id="ma_22" source="ypp" target="ma" label="link"/>
+<edge id="ma_23" source="yqp" target="ma" label="link"/>
 <node id="macc"/>
 <edge id="macc_0" source="sbpcc" target="macc" label="link"/>
 <node id="maprime"/>
@@ -1110,9 +1111,10 @@
 <edge id="mip_3" source="mipstar" target="mip" label="link"/>
 <edge id="mip_4" source="mipns" target="mip" label="link"/>
 <edge id="mip_5" source="mipexp" target="mip" label="link"/>
-<edge id="mip_6" source="nexp" target="mip" label="link"/>
-<edge id="mip_7" source="pcp" target="mip" label="link"/>
-<edge id="mip_8" source="qmip" target="mip" label="link"/>
+<edge id="mip_6" source="ne" target="mip" label="link"/>
+<edge id="mip_7" source="nexp" target="mip" label="link"/>
+<edge id="mip_8" source="pcp" target="mip" label="link"/>
+<edge id="mip_9" source="qmip" target="mip" label="link"/>
 <node id="mipstar"/>
 <edge id="mipstar_0" source="nexp" target="mipstar" label="link"/>
 <edge id="mipstar_1" source="qmip" target="mipstar" label="link"/>
@@ -1243,11 +1245,12 @@
 <edge id="ne_3" source="e" target="ne" label="link"/>
 <edge id="ne_4" source="eh" target="ne" label="link"/>
 <edge id="ne_5" source="fnp" target="ne" label="link"/>
-<edge id="ne_6" source="nepoly" target="ne" label="link"/>
-<edge id="ne_7" source="npiconp" target="ne" label="link"/>
-<edge id="ne_8" source="onp" target="ne" label="link"/>
-<edge id="ne_9" source="seh" target="ne" label="link"/>
-<edge id="ne_10" source="selfnp" target="ne" label="link"/>
+<edge id="ne_6" source="mip" target="ne" label="link"/>
+<edge id="ne_7" source="nepoly" target="ne" label="link"/>
+<edge id="ne_8" source="npiconp" target="ne" label="link"/>
+<edge id="ne_9" source="onp" target="ne" label="link"/>
+<edge id="ne_10" source="seh" target="ne" label="link"/>
+<edge id="ne_11" source="selfnp" target="ne" label="link"/>
 <node id="nearlyp"/>
 <node id="nepoly"/>
 <edge id="nepoly_0" source="eh" target="nepoly" label="link"/>
@@ -2523,6 +2526,7 @@
 <edge id="sqg_0" source="qrg" target="sqg" label="link"/>
 <edge id="sqg_1" source="qrgk" target="sqg" label="link"/>
 <edge id="sqg_2" source="qrg2" target="sqg" label="link"/>
+<node id="stoqma"/>
 <node id="subexp"/>
 <node id="symp"/>
 <node id="szk"/>
