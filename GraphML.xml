@@ -474,10 +474,11 @@
 <node id="cnp"/>
 <edge id="cnp_0" source="cp" target="cnp" label="link"/>
 <node id="coam"/>
-<edge id="coam_0" source="gi" target="coam" label="link"/>
-<edge id="coam_1" source="np" target="coam" label="link"/>
-<edge id="coam_2" source="szk" target="coam" label="link"/>
-<edge id="coam_3" source="ti" target="coam" label="link"/>
+<edge id="coam_0" source="amicoam" target="coam" label="link"/>
+<edge id="coam_1" source="gi" target="coam" label="link"/>
+<edge id="coam_2" source="np" target="coam" label="link"/>
+<edge id="coam_3" source="szk" target="coam" label="link"/>
+<edge id="coam_4" source="ti" target="coam" label="link"/>
 <node id="cocequalsp"/>
 <edge id="cocequalsp_0" source="a0pp" target="cocequalsp" label="link"/>
 <edge id="cocequalsp_1" source="nqp" target="cocequalsp" label="link"/>
@@ -959,14 +960,15 @@
 <edge id="ip_5" source="frip" target="ip" label="link"/>
 <edge id="ip_6" source="iop" target="ip" label="link"/>
 <edge id="ip_7" source="ipp" target="ip" label="link"/>
-<edge id="ip_8" source="mip" target="ip" label="link"/>
-<edge id="ip_9" source="oip" target="ip" label="link"/>
-<edge id="ip_10" source="p" target="ip" label="link"/>
-<edge id="ip_11" source="pspace" target="ip" label="link"/>
-<edge id="ip_12" source="qip" target="ip" label="link"/>
-<edge id="ip_13" source="qip2" target="ip" label="link"/>
-<edge id="ip_14" source="qpip" target="ip" label="link"/>
-<edge id="ip_15" source="szk" target="ip" label="link"/>
+<edge id="ip_8" source="ippolylog" target="ip" label="link"/>
+<edge id="ip_9" source="mip" target="ip" label="link"/>
+<edge id="ip_10" source="oip" target="ip" label="link"/>
+<edge id="ip_11" source="p" target="ip" label="link"/>
+<edge id="ip_12" source="pspace" target="ip" label="link"/>
+<edge id="ip_13" source="qip" target="ip" label="link"/>
+<edge id="ip_14" source="qip2" target="ip" label="link"/>
+<edge id="ip_15" source="qpip" target="ip" label="link"/>
+<edge id="ip_16" source="szk" target="ip" label="link"/>
 <node id="iop"/>
 <node id="ipp"/>
 <edge id="ipp_0" source="ppspace" target="ipp" label="link"/>

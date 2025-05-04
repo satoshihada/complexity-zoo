@@ -836,6 +836,23 @@
 <span class="mw-headline" id="FP:_Function_Polynomial-Time"><span id="fp" >FP</span>
 <span class="mw-headline" id="FP:_Function_Polynomial-Time"><span id="fp" >FP</span>
 <span class="mw-headline" id="FP:_Function_Polynomial-Time"><span id="fp" >FP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
+<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
 <span class="mw-headline" id="RP:_Randomized_Polynomial-Time"><span id="rp" >RP</span>
 <span class="mw-headline" id="RP:_Randomized_Polynomial-Time"><span id="rp" >RP</span>
 <span class="mw-headline" id="RP:_Randomized_Polynomial-Time"><span id="rp" >RP</span>
@@ -886,22 +903,6 @@
 <span class="mw-headline" id="AC0:_Unbounded_Fanin_Constant-Depth_Circuits"><span id="ac0" >AC0</span>
 <span class="mw-headline" id="AC0:_Unbounded_Fanin_Constant-Depth_Circuits"><span id="ac0" >AC0</span>
 <span class="mw-headline" id="AC0:_Unbounded_Fanin_Constant-Depth_Circuits"><span id="ac0" >AC0</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
-<span class="mw-headline" id="IP:_Interactive_Proof_Systems"><span id="ip" >IP</span>
 <span id="NC:_Nick's_Class"></span><span class="mw-headline" id="NC:_Nick.27s_Class"><span id="nc" >NC</span>
 <span id="NC:_Nick's_Class"></span><span class="mw-headline" id="NC:_Nick.27s_Class"><span id="nc" >NC</span>
 <span id="NC:_Nick's_Class"></span><span class="mw-headline" id="NC:_Nick.27s_Class"><span id="nc" >NC</span>
@@ -1063,15 +1064,15 @@
 <span class="mw-headline" id="FNP:_Function_NP"><span id="fnp" >FNP</span>
 <span class="mw-headline" id="FNP:_Function_NP"><span id="fnp" >FNP</span>
 <span class="mw-headline" id="FNP:_Function_NP"><span id="fnp" >FNP</span>
-<span id="NP_∩_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP"><span id="npiconp" >NP &#8745; coNP</span></span>
-<span id="NP_∩_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP"><span id="npiconp" >NP &#8745; coNP</span></span>
-<span id="NP_∩_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP"><span id="npiconp" >NP &#8745; coNP</span></span>
-<span id="NP_∩_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP"><span id="npiconp" >NP &#8745; coNP</span></span>
-<span id="NP_∩_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP"><span id="npiconp" >NP &#8745; coNP</span></span>
-<span id="NP_∩_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP"><span id="npiconp" >NP &#8745; coNP</span></span>
-<span id="NP_∩_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP"><span id="npiconp" >NP &#8745; coNP</span></span>
-<span id="NP_∩_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP"><span id="npiconp" >NP &#8745; coNP</span></span>
-<span id="NP_∩_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP"><span id="npiconp" >NP &#8745; coNP</span></span>
+<span id="NP_∩_coNP:_The_intersection_of_NP_and_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP:_The_intersection_of_NP_and_coNP"><span id="npiconp" >NP &#8745; coNP</span>
+<span id="NP_∩_coNP:_The_intersection_of_NP_and_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP:_The_intersection_of_NP_and_coNP"><span id="npiconp" >NP &#8745; coNP</span>
+<span id="NP_∩_coNP:_The_intersection_of_NP_and_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP:_The_intersection_of_NP_and_coNP"><span id="npiconp" >NP &#8745; coNP</span>
+<span id="NP_∩_coNP:_The_intersection_of_NP_and_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP:_The_intersection_of_NP_and_coNP"><span id="npiconp" >NP &#8745; coNP</span>
+<span id="NP_∩_coNP:_The_intersection_of_NP_and_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP:_The_intersection_of_NP_and_coNP"><span id="npiconp" >NP &#8745; coNP</span>
+<span id="NP_∩_coNP:_The_intersection_of_NP_and_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP:_The_intersection_of_NP_and_coNP"><span id="npiconp" >NP &#8745; coNP</span>
+<span id="NP_∩_coNP:_The_intersection_of_NP_and_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP:_The_intersection_of_NP_and_coNP"><span id="npiconp" >NP &#8745; coNP</span>
+<span id="NP_∩_coNP:_The_intersection_of_NP_and_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP:_The_intersection_of_NP_and_coNP"><span id="npiconp" >NP &#8745; coNP</span>
+<span id="NP_∩_coNP:_The_intersection_of_NP_and_coNP"></span><span class="mw-headline" id="NP_.E2.88.A9_coNP:_The_intersection_of_NP_and_coNP"><span id="npiconp" >NP &#8745; coNP</span>
 <span id="⊕P:_Parity_P"></span><span class="mw-headline" id=".E2.8A.95P:_Parity_P"><span id="parityp" >&#8853;P</span>
 <span id="⊕P:_Parity_P"></span><span class="mw-headline" id=".E2.8A.95P:_Parity_P"><span id="parityp" >&#8853;P</span>
 <span id="⊕P:_Parity_P"></span><span class="mw-headline" id=".E2.8A.95P:_Parity_P"><span id="parityp" >&#8853;P</span>
@@ -1368,6 +1369,11 @@
 <span class="mw-headline" id="CH:_Counting_Hierarchy"><span id="ch" >CH</span>
 <span class="mw-headline" id="CH:_Counting_Hierarchy"><span id="ch" >CH</span>
 <span class="mw-headline" id="CH:_Counting_Hierarchy"><span id="ch" >CH</span>
+<span class="mw-headline" id="coAM:_Complement_of_AM"><span id="coam" >coAM</span>
+<span class="mw-headline" id="coAM:_Complement_of_AM"><span id="coam" >coAM</span>
+<span class="mw-headline" id="coAM:_Complement_of_AM"><span id="coam" >coAM</span>
+<span class="mw-headline" id="coAM:_Complement_of_AM"><span id="coam" >coAM</span>
+<span class="mw-headline" id="coAM:_Complement_of_AM"><span id="coam" >coAM</span>
 <span class="mw-headline" id="coNE:_Complement_of_NE"><span id="cone" >coNE</span>
 <span class="mw-headline" id="coNE:_Complement_of_NE"><span id="cone" >coNE</span>
 <span class="mw-headline" id="coNE:_Complement_of_NE"><span id="cone" >coNE</span>
@@ -1488,10 +1494,6 @@
 <span class="mw-headline" id="CFL:_Context-Free_Languages"><span id="cfl" >CFL</span>
 <span class="mw-headline" id="CFL:_Context-Free_Languages"><span id="cfl" >CFL</span>
 <span class="mw-headline" id="CFL:_Context-Free_Languages"><span id="cfl" >CFL</span>
-<span class="mw-headline" id="coAM:_Complement_of_AM"><span id="coam" >coAM</span>
-<span class="mw-headline" id="coAM:_Complement_of_AM"><span id="coam" >coAM</span>
-<span class="mw-headline" id="coAM:_Complement_of_AM"><span id="coam" >coAM</span>
-<span class="mw-headline" id="coAM:_Complement_of_AM"><span id="coam" >coAM</span>
 <span class="mw-headline" id="CZK:_Computational_Zero-Knowledge"><span id="czk" >CZK</span>
 <span class="mw-headline" id="CZK:_Computational_Zero-Knowledge"><span id="czk" >CZK</span>
 <span class="mw-headline" id="CZK:_Computational_Zero-Knowledge"><span id="czk" >CZK</span>
